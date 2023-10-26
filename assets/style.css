@@ -1,5 +1,5 @@
 body{
-  background-color:darkslateblue ;
+  background-color:rgb(52, 147, 182) ;
   color: white;
 }
 
@@ -20,7 +20,7 @@ button {
 }
 
 .submit-btn{
-  background-color: orange;
+  background-color: rgb(168, 111, 6);
 }
 
 .submit-btn2{
@@ -28,7 +28,7 @@ button {
 }
 
 .submit-btn3{
-  background-color: rgb(182, 240, 255);
+  background-color: rgb(8, 8, 8);
 }
 
 
