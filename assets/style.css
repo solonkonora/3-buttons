@@ -4,15 +4,19 @@ body{
 }
 
 main{
-  width: 300px;
+  width: 400px;
   padding: 20px;
   margin: 20vh auto;
 }
+
 button {
   padding: 20px 40px;
   cursor: pointer;
   border-radius: 5px;
   margin-bottom: 10px;
+  width: 400px;
+  font-size: 30px;
+  border: none;
 }
 
 .submit-btn{
@@ -23,8 +27,8 @@ button {
   background-color: lightpink;
 }
 
-/* .submit-btn3{
+.submit-btn3{
   background-color: rgb(182, 240, 255);
-} */
+}
 
 
